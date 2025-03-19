@@ -27,7 +27,7 @@ class Insta extends softwares{
     @Override
     void app_open() {
         while (true){
-            if (user_name.equals("Akbar") && password.equals("123akbar")){
+            if (user_name.equals("Manju") && password.equals("Manju123")){
                 System.out.println("Successfully Login,App Is Open...");
                 break;
             }
