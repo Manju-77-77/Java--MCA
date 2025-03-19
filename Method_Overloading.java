@@ -15,6 +15,6 @@ class main1{
     public static void main(String[] args) {
         Method_Overloading obj = new Method_Overloading();
         obj.add();
-        obj.add1("Akbar");
+        obj.add1("Manjuu");
     }
 }
